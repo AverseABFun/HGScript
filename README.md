@@ -1,2 +1,2 @@
 # HGScript
-HTML gaming library, programmed with HTML
+HTML game engine
